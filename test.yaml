@@ -1,4 +1,6 @@
 fifty: lose
 slight: bring
 floating: true
-ping: pong
+ping: 
+ - pong
+ - 2
